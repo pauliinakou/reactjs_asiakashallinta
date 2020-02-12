@@ -1,0 +1,56 @@
+{
+  "asiakas": [
+    {
+      "id": 2,
+      "Nimi": "Monneli",
+      "Osoite": "Volvotie",
+      "Postinumero": "70100",
+      "Postitoimipaikka": "Astra",
+      "Puhelinnumero": "95036552",
+      "Tyyppi_id": "1",
+      "Tyyppi_selite": "Yritysasiakas"
+    },
+    {
+      "id": 3,
+      "Nimi": "Nipsu",
+      "Osoite": "Naapurikuja",
+      "Postinumero": "41000",
+      "Postitoimipaikka": "Nakkila",
+      "Puhelinnumero": "04055966",
+      "Tyyppi_id": "2",
+      "Tyyppi_selite": "Kuluttaja-asiakas"
+    },
+    {
+      "id": 4,
+      "Nimi": "Kapsu",
+      "Osoite": "Seivästie",
+      "Postinumero": "85500",
+      "Postitoimipaikka": "Kilkemi",
+      "Puhelinnumero": "05036255",
+      "Tyyppi_id": "2",
+      "Tyyppi_selite": "Kuluttaja-asiakas"
+    },
+    {
+      "id": 5,
+      "Nimi": "Kekko",
+      "Osoite": "ddffddf",
+      "Postinumero": "85500",
+      "Postitoimipaikka": "Kilkemi",
+      "Puhelinnumero": "05036255",
+      "Tyyppi_id": "2",
+      "Tyyppi_selite": "Kuluttaja-asiakas"
+    }
+  ],
+  "asiakastyyppi": [
+    {
+      "id": 1,
+      "lyhenne": "YA",
+      "selite": "Yritysasiakas"
+    },
+    {
+      "id": 2,
+      "lyhenne": "KA",
+      "selite": "Kuluttaja-asiakas"
+    }
+  ]
+}
